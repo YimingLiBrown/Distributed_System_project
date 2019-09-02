@@ -1,5 +1,5 @@
 # Distributed_System_project
-My distributed system projects. They are liteminer, Tapestry, Raft and Puddlestore
+My course projects. They are liteminer, Tapestry, Raft and Puddlestore. Puddlestore is the final project and it is based on Raft and Tapestry. To see more detail about PuddleStore, there is a README in Puddlestore.
 
 # Go_Project
 All my distributed system projects. All these projects are team projects with members of 2. The original repository is a private course repository, and Professor doesn't allow us to public these projects. Therefore, I create this repository and clone all the projects here. This repository is only used for the Skycoin interview. When the interview is done, I will delete this repository.
